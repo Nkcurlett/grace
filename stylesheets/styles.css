@@ -214,10 +214,8 @@ td {
 
 /* Header */
 
-header {
-	background-image:url("../8.jpg");
-	background-repeat:no-repeat;
-	color: #FDFDFB;
+header {background-color:red;
+color: #FDFDFB;
   width:170px;
   float:left;
   position:fixed;
