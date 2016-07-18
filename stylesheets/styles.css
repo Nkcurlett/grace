@@ -218,7 +218,7 @@ header {
 	background:url(../images/sm-12.jpg)no-repeat center;
 /*text color*/	
 background-color:#f00;
-color: #f00;
+color: #fff;
   width:170px;
   float:left;
   position:fixed;
@@ -249,7 +249,7 @@ h1.header {
 
 
 h1.header, a.header, a.name, header a{
-	color: #f00;
+	color: #fff;
 }
 
 a.header {
