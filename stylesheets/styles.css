@@ -215,10 +215,10 @@ td {
 /* Header */
 
 header {
-	background:url(../images/sm-12.jpg)no-repeat center;
-/*text color*/	
-background-color:#f00;
-color: #fff;
+background: url(../images/sm-15.jpg)no-repeat center 175px;
+  background-color:red;
+  color: #ff0000;
+  text-shadow:white 2px;
   width:170px;
   float:left;
   position:fixed;
