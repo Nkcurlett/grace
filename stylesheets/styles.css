@@ -215,9 +215,9 @@ td {
 /* Header */
 
 header {
-	background:url(../images/12.jpg)no-repeat 170px;
+	background:url(../images/sm-12.jpg);
 /*text color*/	
-color: #fff;
+color: #f00;
   width:170px;
   float:left;
   position:fixed;
@@ -248,7 +248,7 @@ h1.header {
 
 
 h1.header, a.header, a.name, header a{
-	color: #000;
+	color: #f00;
 }
 
 a.header {
